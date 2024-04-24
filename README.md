@@ -5,7 +5,7 @@
 	<img src="mona-loading-default.gif" width="48">
 	<br>
 	
-<a href=https://onlypwner.xyz/leaderboard> Top player on ONLYPWNER</a>
+<a href=https://onlypwner.xyz/leaderboard> ONLYPWNER</a>
 
 <a href=https://nodeguardians.io/character/m4k2>⚔️<𖤍>⚔️</a>
 </div>
