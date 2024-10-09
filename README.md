@@ -1,7 +1,7 @@
 <div align="center">
 	<img src="mona-loading-default.gif" width="48">
 	<!-- <p>Credit to Minaminao creation</p> -->
-	👀 JOP and Reverse engineering 👀
+JOP and Reverse CTF player
 	<img src="mona-loading-default.gif" width="48">
 	<br>
 	
