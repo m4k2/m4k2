@@ -6,6 +6,9 @@ JOP and Reverse CTF player
 	<br>
 	
 <a href=https://onlypwner.xyz/leaderboard>⚔️<𖤍>⚔️</a>
+<br>
+<br>
+<a href=https://m4k2.github.io/bebop/>ctf blog</a>
 </div>
 
 
