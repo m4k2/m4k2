@@ -1,20 +1,39 @@
-# Quentin Lemauf · m4k2
-
-**Security Researcher at [Zellic](https://www.zellic.io/)** since February 2025. Co-founder of [BEYOND](https://github.com/beyondaudit/portfolio).
-
-I review smart contracts, compilers, virtual machines, and off-chain systems across EVM, Move, Cairo, and Bitcoin.
-
-I compete in world-class CTFs with [The Hacker Crew](https://ctftime.org/team/85618) and [DeFiHackLabs](https://defihacklabs.io/).
-
 <div align="center">
-  <img src="mona-loading-default.gif" width="48" alt="">
-  JOP and Reverse CTF player
-  <img src="mona-loading-default.gif" width="48" alt="">
-  <br>
-  <a href="https://onlypwner.xyz/leaderboard">⚔️&lt;𖤍&gt;⚔️</a>
-</div>
+  <img src="mona-loading-default.gif" width="56" alt="">
 
-[Email](mailto:quentin.lemauf@gmail.com) · [Blog](https://m4k2.github.io/bebop/) · [Contest profile](https://audits.sherlock.xyz/watson/m4k2) · [X](https://x.com/m4k2_0x)
+  <h2>Smart Contract Security Researcher</h2>
+
+  <p>
+    JOP &amp; Reverse Engineering CTF Player<br>
+    EVM · Move · Cairo · Bitcoin
+  </p>
+
+  <p>
+    Security Researcher at <a href="https://www.zellic.io/"><strong>Zellic</strong></a>
+    since February 2025<br>
+    Co-founder of <a href="https://github.com/beyondaudit/portfolio"><strong>BEYOND</strong></a>
+  </p>
+
+  <p>
+    I audit smart contracts, compilers, virtual machines, and off-chain systems,
+    focusing on protocol invariants and high-impact vulnerabilities.
+  </p>
+
+  <p>
+    International CTF competitor with
+    <a href="https://ctftime.org/team/85618">The Hacker Crew</a>
+    and
+    <a href="https://defihacklabs.io/">DeFiHackLabs</a>.
+  </p>
+
+  <p>
+    <a href="https://onlypwner.xyz/leaderboard">Leaderboard</a> ·
+    <a href="https://m4k2.github.io/bebop/">Research Blog</a> ·
+    <a href="https://audits.sherlock.xyz/watson/m4k2">Audit Profile</a> ·
+    <a href="mailto:quentin.lemauf@gmail.com">Email</a> ·
+    <a href="https://x.com/m4k2_0x">X</a>
+  </p>
+</div>
 
 ## Audit competitions
 
