@@ -6,25 +6,19 @@ I review smart contracts, compilers, virtual machines, and off-chain systems acr
 
 I compete in world-class CTFs with [The Hacker Crew](https://ctftime.org/team/85618) and [DeFiHackLabs](https://defihacklabs.io/).
 
-**Languages:** Solidity, Cairo, C, C++, Rust. **Methods:** source-code review, reverse engineering, fuzzing, and symbolic testing with Foundry, Echidna, and Halmos.
-
-[Email](mailto:quentin.lemauf@gmail.com) · [Blog](https://m4k2.github.io/bebop/) · [Contest profile](https://audits.sherlock.xyz/watson/m4k2) · [X](https://x.com/m4k2_0x)
-
 <div align="center">
   <img src="mona-loading-default.gif" width="48" alt="">
   JOP and Reverse CTF player
   <img src="mona-loading-default.gif" width="48" alt="">
   <br>
   <a href="https://onlypwner.xyz/leaderboard">⚔️&lt;𖤍&gt;⚔️</a>
-  <br><br>
-  <a href="https://m4k2.github.io/bebop/">ctf blog</a>
 </div>
+
+[Email](mailto:quentin.lemauf@gmail.com) · [Blog](https://m4k2.github.io/bebop/) · [Contest profile](https://audits.sherlock.xyz/watson/m4k2) · [X](https://x.com/m4k2_0x)
 
 ## Audit competitions
 
-[Sherlock](https://audits.sherlock.xyz/watson/m4k2): **$12.59K in contest earnings** · **10 high / 13 medium findings** · 10 payouts. Snapshot: 23 September 2026.
-
-At Size, I found **two high-severity issues** in liquidation accounting and fee calculations.
+[Sherlock profile](https://audits.sherlock.xyz/watson/m4k2): **$12.59K in contest earnings** · **10 high / 13 medium findings**
 
 | Project | Result | Award (USDC) | Scope | Date | Findings |
 | --- | --- | ---: | --- | --- | --- |
@@ -33,8 +27,6 @@ At Size, I found **two high-severity issues** in liquidation accounting and fee 
 | [Size](https://code4rena.com/audits/2024-06-size) | **16th** | **1,903.96** | EVM / lending · Code4rena | Jun 2024 | **2 high** |
 | [Lambo.win](https://code4rena.com/audits/2024-12-lambowin) | **7th** | **388.43** | EVM / launchpad · Code4rena | Dec 2024 | 2 high, 3 medium |
 | [Dria](https://codehawks.cyfrin.io/contests/cm2ooiwzk0003mx0tt5wiu88x) | **15th** | **98.47** | LLM oracle coordination · CodeHawks | Oct 2024 | 2 high, 3 medium, 2 low |
-
-Dria was entered under the shared account **m4k2xmk**. The other rows are credited to **m4k2**.
 
 ## CTFs
 
@@ -81,7 +73,7 @@ At **BEYOND**, I have worked on private audits independently and with teams. [Pu
 
 ## Technical focus
 
-**Languages:** Solidity, Cairo, Huff, Yul, Geas, C, C++, Rust, Go, Python, JavaScript.
+**Languages:** Solidity, Cairo, Huff, Move, Bitcoin, C, C++, Rust, Go, JS.
 
 **Tools:** Foundry, Starknet Foundry, Hardhat, Halmos, Echidna, Git. For reverse engineering: Ghidra, IDA, Dedaub, Heimdall, Bytegraph, and Erever.
 
