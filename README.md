@@ -2,10 +2,12 @@
 
 Smart contract security researcher at [Zellic](https://www.zellic.io/) and co-founder of [BEYOND](https://github.com/beyondaudit/portfolio).
 
-I review smart contracts, compilers, virtual machines, and off-chain systems across EVM, Move, Cairo, and Bitcoin. My work focuses on protocol invariants, complex
+I'm used to quick learn and be proficient on new technology in a short period of time, mainly thanks to CTF competitions.
+
+I review  compilers, virtual machines, l1 nodes and smart contracts across EVM, Sui/Aptos, Starknet, and Bitcoin. My work focuses on protocol invariants, complex
 attack paths, and high-impact vulnerabilities.
 
-I also compete internationally in JOP and reverse-engineering CTFs with [The Hacker Crew](https://ctftime.org/team/85618) and
+I also compete internationally in CTFs (evm JOP/reverse <3) with [The Hacker Crew](https://ctftime.org/team/85618) and
 [DeFiHackLabs](https://defihacklabs.io/).
 
 [Research Blog](https://m4k2.github.io/bebop/) ·
@@ -38,13 +40,13 @@ I play with [The Hacker Crew](https://ctftime.org/team/85618) and [DeFiHackLabs]
 | PwnMe CTF 2025 | **On-site finalist** · Paris | The Hacker Crew |
 | Immunefi ETH Escape 2024 | **On-site finalist** · Bangkok | Individual |
 
-I've also played Paradigm CTF and Blaz CTF with DeFiHackLabs, and competed in Curta.
+I've also played Paradigm CTF and Blaz CTF, and competed in Curta (back in the ctf golden era).
 
 ## Work
 
-At **Zellic**, I review smart contracts and off-chain C, C++, and Rust code, including compilers and virtual machines. The work covers vulnerability analysis, impact assessment, proofs of concept, and remediation.
+At **Zellic**, I review smart contracts and off chain C++ and Rust code, including compilers and virtual machines. The work covers vulnerability analysis, impact assessment, proofs of concept, and remediation.
 
-At **BEYOND**, I have worked on private audits independently and with teams. [Public audit reports and contest results](https://github.com/beyondaudit/portfolio).
+At **BEYOND**, I have worked on private audits independently in teams.
 
 ## Publications
 
@@ -64,7 +66,7 @@ At **BEYOND**, I have worked on private audits independently and with teams. [Pu
 | Work | Subject / contribution |
 | --- | --- |
 | [Root-Me: Reverse/Pwn de Smart Contract en CTF](https://www.youtube.com/watch?v=T4pjoNDjJxs) | Recorded talk in French. EVM reverse engineering and analysis of Opaze Whisperer. |
-| [REMEDY CTF: Opaze Whisperer](https://ctf.r.xyz/challenges?challenge=11) | Challenge author. EVM bytecode manipulation and jump-oriented programming. |
+| [REMEDY CTF: Opaze Whisperer](https://ctf.r.xyz/challenges?challenge=11) | Challenge author. EVM bytecode manipulation and jump oriented programming. |
 | GCC CTF 2024, Crew CTF 2024, Breizh CTF 2023 | Challenge author. |
 
 **Research project:** multi-layered privacy circuit using decentralized technologies.
@@ -75,7 +77,7 @@ At **BEYOND**, I have worked on private audits independently and with teams. [Pu
 
 **Tools:** Foundry, Starknet Foundry, Hardhat, Halmos, Echidna, Git. For reverse engineering: Ghidra, IDA, Dedaub, Heimdall, Bytegraph, and Erever.
 
-EVM internals, gas optimization, compiler and VM security, fuzzing, and symbolic testing.
+EVM internals, compiler and VM security, fuzzing, and symbolic testing.
 
 ## About me
 
