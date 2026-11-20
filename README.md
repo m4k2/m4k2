@@ -1,4 +1,4 @@
-# Portfolio M4K2
+# M4K2
 
 Security researcher at [Zellic](https://www.zellic.io/) · co-founder of [BEYOND](https://github.com/beyondaudit/portfolio).
 
